@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ajumayev
-- 👀 I’m interested in ...CLOUD/Dveops/Containers/Security
+- 👀 I’m interested in ...Network/CLOUD/Dveops/Containers/Security
 - 🌱 I’m currently learning CONTAINERS
 - 💞️ I’m looking to collaborate on Cloud, Containers and Kubernetes
 - 📫 How to reach me ...
