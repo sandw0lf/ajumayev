@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @aj
-- 👀 I’m interested in ...Network/CLOUD/Dveops/Containers/Security/DevSecOps
+- 👀 I’m interested in ...Security of Network/CLOUD/Dveops/Containers/DevSecOps
 - 🌱 I’m currently learning CONTAINERS
 - 💞️ I’m looking to collaborate on Cloud, Containers and Kubernetes
 - 📫 How to reach me ...
